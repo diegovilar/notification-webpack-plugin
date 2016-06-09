@@ -1,0 +1,24 @@
+{
+  "name": "notification-webpack-plugin",
+  "version": "0.8.0",
+  "description": "A notification plugin for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegovilar/notification-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "notification"
+  ],
+  "author": "Diego Vilar <diegovilar@gmail.com> (https://github.com/diegovilar)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegovilar/notification-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/diegovilar/notification-webpack-plugin#readme",
+  "dependencies": {
+    "node-notifier": "4.6.0"
+  }
+}
